@@ -20,7 +20,7 @@ Example:
   url: "https://aistudio.baidu.com/aistudio/projectdetail/3473391?contributionType=1"
   url_en: 
 Datasets: "Kinetics-400, UCF-101"
-Pulisher: "Baidu"
+Publisher: "Baidu"
 License: "apache.2.0"
 Paper:
 - title: "TSM: Temporal Shift Module for Efficient Video Understanding"
