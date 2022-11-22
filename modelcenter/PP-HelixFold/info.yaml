@@ -29,7 +29,7 @@ Example:
  
 Datasets: "RCSB PDB, Self-distillation datasets, CAMEO, CASP14"
    
-Pulisher: "Baidu"
+Publisher: "Baidu"
 
 License: "Apache 2.0"
 
